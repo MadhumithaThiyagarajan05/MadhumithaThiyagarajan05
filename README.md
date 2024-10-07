@@ -1,5 +1,3 @@
-## Hi there 👋
-
 - 👋 Hi, I’m Madhumitha Thiyagarajan
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Cloud Computing,Data Science, Deep Learning and Front-End Designing.
 - 🌱 I’m currently learning Artificial Intelligence and Data Science, Front-End Designing and Development.
